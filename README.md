@@ -1,6 +1,10 @@
 # Blockchain Specialization on Coursera 
 Instructor: [Bina Ramamurthy](https://www.coursera.org/instructor/~5767003)
 
+This specialization introduces blockchain, a revolutionary technology that enables peer-to-peer transfer of digital assets without any intermediaries, and is predicted to be just as impactful as the Internet. More specifically, it prepares learners to program on the Ethereum blockchain. The four courses provide learners with (i) an understanding and working knowledge of foundational blockchain concepts, (ii) a skill set for designing and implementing smart contracts, (iii) methods for developing decentralized applications on the blockchain, and (iv) information about the ongoing specific industry-wide blockchain frameworks.
+
+The specialization covers a range of essential topics, from the cryptographic underpinnings of blockchain technology to enabling decentralized applications on a private Ethereum blockchain platform. 
+
 ## 1. Disclaimer
 The solutions uploaded here are only for reference purpose. They are meant to support you if you get stuck somewhere. You shouldn't just copy this for submitting your assignments or the Quizzes.
 
