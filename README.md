@@ -12,7 +12,7 @@ The solutions uploaded here are only for reference purpose. They are meant to su
 ## 2. Assignment Solutions
 
 #### 2.1. Course 1: Blockchain Basics 
-- Week 1 - Blockchain Defined: [Quiz Solution]
+- Week 1 - Blockchain Defined: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/Blockchain%20Defined%20-%20Week%201.pdf)
 
 - Week 2 - Ethereum Blockchain: [Quiz Solution]()
 
