@@ -14,11 +14,11 @@ The solutions uploaded here are only for reference purpose. They are meant to su
 #### 2.1. Course 1: Blockchain Basics 
 - Week 1 - Blockchain Defined: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/Blockchain%20Defined%20-%20Week%201.pdf)
 
-- Week 2 - Ethereum Blockchain: [Quiz Solution]()
+- Week 2 - Ethereum Blockchain: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/Ethereum%20Blockchain%20-%20%20Week%202.pdf)
 
-- Week 3 - Algorithms & Techniques: [Quiz Solution]()
+- Week 3 - Algorithms & Techniques: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/Algorithms%20%20%20Techniques%20-%20%20Week%203.pdf)
 
-- Week 4 - Trust Essentials: [Quiz Solution and Project]()
+- Week 4 - Trust Essentials: [Quiz Solution and Project](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/score.txt.txt)
 
 #### 2.2. Course 2: Smart contracts
 
