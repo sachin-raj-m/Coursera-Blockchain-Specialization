@@ -12,42 +12,42 @@ The solutions uploaded here are only for reference purpose. They are meant to su
 ## 2. Assignment Solutions
 
 #### 2.1. Course 1: Blockchain Basics 
-- Week 1 - Blockchain Defined: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/Blockchain%20Defined%20-%20Week%201.pdf)
+ Week 1 - Blockchain Defined: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/Blockchain%20Defined%20-%20Week%201.pdf)
 
-- Week 2 - Ethereum Blockchain: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/Ethereum%20Blockchain%20-%20%20Week%202.pdf)
+ Week 2 - Ethereum Blockchain: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/Ethereum%20Blockchain%20-%20%20Week%202.pdf)
 
-- Week 3 - Algorithms & Techniques: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/Algorithms%20%20%20Techniques%20-%20%20Week%203.pdf)
+ Week 3 - Algorithms & Techniques: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/Algorithms%20%20%20Techniques%20-%20%20Week%203.pdf)
 
-- Week 4 - Trust Essentials: [Project](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/score.txt)
+ Week 4 - Trust Essentials: [Project](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/score.txt)
 
 #### 2.2. Course 2: Smart contracts
 
-- Week 1 - Smart contract basics: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Smart%20contracts/Smart%20Contract%20Basics%20-%20Week%201.pdf)
+ Week 1 - Smart contract basics: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Smart%20contracts/Smart%20Contract%20Basics%20-%20Week%201.pdf)
 
-- Week 2 - Solidity: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Smart%20contracts/Solidity%20-%20Week%202.pdf)
+ Week 2 - Solidity: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Smart%20contracts/Solidity%20-%20Week%202.pdf)
 
-- Week 3 - Putting it all together: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Smart%20contracts/Putting%20It%20All%20Together%20-%20Week%203.pdf)
+ Week 3 - Putting it all together: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Smart%20contracts/Putting%20It%20All%20Together%20-%20Week%203.pdf)
 
-- Week 4 -Developing a Smart Contract: [Programming Assignment](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/tree/main/Smart%20contracts/Programming%20Assignment)
+ Week 4 -Developing a Smart Contract: [Programming Assignment](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/tree/main/Smart%20contracts/Programming%20Assignment)
 
 #### 2.3. Course 3: Decentralized applications (Dapps)
 
-- Week 1 - Decentralized applications: [Quiz Solution]()
+ Week 1 - Decentralized applications: [Quiz Solution]()
 
-- Week 2 - Truffle development: [Quiz Solution]()
+ Week 2 - Truffle development: [Quiz Solution]()
 
-- Week 3 - Design improvements: [Quiz Solution]()
+ Week 3 - Design improvements: [Quiz Solution]()
 
-- Week 4 - Application models & Standards: [Quiz Solution]() 
+ Week 4 - Application models & Standards: [Quiz Solution]() 
 
-- Final course project: [Solution]()
+ Final course project: [Solution]()
 
 #### 2.4. Course 4: Blockchain platforms
 
-- Week 1 - Permissioned blockchains: [Quiz Solution]()
+ Week 1 - Permissioned blockchains: [Quiz Solution]()
 
-- Week 2 - Permissioned blockchains: [Quiz Solution]()
+ Week 2 - Permissioned blockchains: [Quiz Solution]()
 
-- Week 3 - Permissioned blockchains: [Quiz Solution]()
+ Week 3 - Permissioned blockchains: [Quiz Solution]()
 
-- Week 4 - Permissioned blockchains: [Quiz Solution]()
+ Week 4 - Permissioned blockchains: [Quiz Solution]()
