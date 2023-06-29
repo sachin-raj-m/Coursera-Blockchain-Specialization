@@ -18,7 +18,7 @@ The solutions uploaded here are only for reference purpose. They are meant to su
 
 - Week 3 - Algorithms & Techniques: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/Algorithms%20%20%20Techniques%20-%20%20Week%203.pdf)
 
-- Week 4 - Trust Essentials: [Quiz Solution and Project](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/score.txt.txt)
+- Week 4 - Trust Essentials: [Quiz Solution and Project](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/score.txt)
 
 #### 2.2. Course 2: Smart contracts
 
