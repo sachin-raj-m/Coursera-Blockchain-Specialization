@@ -18,17 +18,17 @@ The solutions uploaded here are only for reference purpose. They are meant to su
 
 - Week 3 - Algorithms & Techniques: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/Algorithms%20%20%20Techniques%20-%20%20Week%203.pdf)
 
-- Week 4 - Trust Essentials: [Quiz Solution and Project](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/score.txt)
+- Week 4 - Trust Essentials: [Project](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Blockchain%20Basics/score.txt)
 
 #### 2.2. Course 2: Smart contracts
 
-- Week 1 - Smart contract basics: [Quiz Solution]()
+- Week 1 - Smart contract basics: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Smart%20contracts/Smart%20Contract%20Basics%20-%20Week%201.pdf)
 
-- Week 2 - Solidity: [Quiz Solution]()
+- Week 2 - Solidity: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Smart%20contracts/Solidity%20-%20Week%202.pdf)
 
-- Week 3 - Putting it all together: [Quiz Solution]()
+- Week 3 - Putting it all together: [Quiz Solution](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/blob/main/Smart%20contracts/Putting%20It%20All%20Together%20-%20Week%203.pdf)
 
-- Week 4 - Best Practices: [Quiz Solution and Project]()
+- Week 4 -Developing a Smart Contract: [Programming Assignment](https://github.com/sachin-raj-m/Coursera-Blockchain-Specialization/tree/main/Smart%20contracts/Programming%20Assignment)
 
 #### 2.3. Course 3: Decentralized applications (Dapps)
 
